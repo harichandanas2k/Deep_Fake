@@ -2,7 +2,6 @@
 
 This project presents a comparative analysis of Convolutional Neural Networks (CNN) and Support Vector Machines (SVM) for the detection of deepfake images. With the rise of AI-generated synthetic media, it's increasingly important to develop robust detection systems. This implementation aims to accurately classify real and deepfake facial images using deep learning and machine learning approaches.
 
----
 
 ## 📌 Objective
 
@@ -10,7 +9,6 @@ This project presents a comparative analysis of Convolutional Neural Networks (C
 - To compare the performance of CNN and SVM for classification.
 - To explore the use of AI for enhancing digital media integrity.
 
----
 
 ## 🧠 Technologies Used
 
@@ -21,13 +19,11 @@ This project presents a comparative analysis of Convolutional Neural Networks (C
 - **Matplotlib / Seaborn** – for visualization  
 - **Jupyter Notebook**
 
----
 
 ## 🗃️ Dataset
 
 The project uses a dataset containing real and deepfake face images. The data is preprocessed and split into training and testing sets to evaluate model performance.
 
----
 
 ## 🔍 Model Overview
 
@@ -40,7 +36,6 @@ The project uses a dataset containing real and deepfake face images. The data is
 - Used as a classical ML classifier on extracted features.
 - Works well with high-dimensional image data when combined with PCA or flattening techniques.
 
----
 
 ## 📈 Results
 
@@ -51,7 +46,6 @@ The project uses a dataset containing real and deepfake face images. The data is
 
 *Note: Results may vary depending on dataset split and training settings.*
 
----
 
 ## 📊 Visualization
 
